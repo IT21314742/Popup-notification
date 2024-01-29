@@ -1,3 +1,3 @@
 let popup = document.getElementById("popup");
 
-function
+function openPopup
