@@ -1,1 +1,1 @@
-let popup = document
+let popup = document.getElementById
